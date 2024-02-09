@@ -1,5 +1,8 @@
 ![](assets/newest.png) 
 
+# https://github.com/Bluemoondragon07/Wikipedia-Theme
+
+
 # Familiar Look
 Make your vault look like your own personal Wikipedia! This theme styles images, headings, and even the sidebar in the classic style of your favourite encyclopedia.
 
